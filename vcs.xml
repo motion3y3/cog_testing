@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/motion3y3/cog_testing.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tyu1996/kch_church_app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/StudioProjects" />
